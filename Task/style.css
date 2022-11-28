@@ -1,0 +1,234 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin: 0;
+   
+
+}
+
+.header,
+.header2 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+.header2 {
+    gap: 25px;
+    margin-top: 19px;
+}
+
+.line {
+
+    padding: 0;
+    border: 1px solid gray;
+    width: 800px;
+    margin-left: 200px;
+}
+
+.chat {
+    display: flex;
+    align-items: center;
+    padding: 3px;
+    border: 2px solid black;
+    height: 15px;
+    margin-top: 18px;
+}
+
+.hold {
+    display: flex;
+}
+
+.ric {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.brian {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.cool {
+    display: flex;
+    color: white;
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.clip {
+    display: flex;
+    margin-top: 27px;
+}
+
+.hire {
+    display: flex;
+    background-color: orangered;
+    width: 70px;
+    justify-content: center;
+    padding: 10px;
+    color: white;
+}
+
+.project {
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.basket>img {
+    display: flex;
+    width: 80px;
+    height: 80px;
+    margin-left: 200px;
+
+}
+
+.map {
+    display: flex;
+    gap: 50px;
+    margin-top: 19px;
+  /*  margin-bottom: 20px;*/
+
+}
+
+.degit {
+    font-weight: bold;
+    font-size: large;
+}
+
+.web {
+    display: flex;
+    gap: 100px;
+
+}
+
+.some {
+    display: flex;
+    gap: 70px;
+    margin-top: -170px;
+    color: white;
+    padding: 30px;
+    background-color: rgb(54, 50, 50);
+    width: 600px;
+}
+
+.ato {
+   margin-left: 150px;
+   margin-top: 39px;
+
+}
+
+.creat {
+    display: flex;
+    justify-content: center;
+    margin-top: 17px;
+    font-size: large;
+    font-size: 25px;
+
+
+}
+
+.lap>img {
+    width: 70px;
+    height: 70px;
+}
+
+.lap {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 25px;
+}
+
+.Bt>img {
+    width: 70px;
+    height: 70px;
+
+}
+
+.Bt {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+    
+}
+
+.log>img {
+    width: 70px;
+    height: 70px;
+    margin-left: 40px;
+}
+
+
+.more {
+    background-color: yellow;
+    border: yellow;
+    padding: 7px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+
+}
+
+.all {
+    display: flex;
+    flex-shrink: 0;
+    justify-content: space-between ;
+    
+}
+
+.van {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: flex-start;
+ 
+
+
+}
+
+.up {
+
+    border: 1px solid gray;
+    width: 220px;
+}
+
+
+.sub {
+    background-color: rgb(187, 172, 172);
+    height: 700px;
+    width: 700px;
+   background-image: url(image.jpg/Ronaldo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.news {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+    background-color: white;
+    padding: 20px;
+    gap: 10px;
+    margin-top: 250px;
+   
+}
+
+.bam{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 30px;
+    justify-content: center;
+    margin-left: 18px;
+}
+.leo{
+    margin-left: 100px;
+}
